@@ -45,4 +45,4 @@ References Used to Complete the Assignment:
 
 Instructions for running the assignment: 
 	Compile all source files with the makefile provided
-	Run the program (./a.out)
+	Run the program (./assignment6.exe)
